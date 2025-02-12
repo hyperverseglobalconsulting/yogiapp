@@ -1,0 +1,8 @@
+{
+    "accessKeyId": "redacted", 
+    "secretAccessKey": "redacted", 
+    "region": "us-east-2",
+    "bucketName": "yogiapp-vizeet-me", 
+    "apiGatewayUrl": "wss://redacted.execute-api.us-east-2.amazonaws.com/prod/",
+    "api_key": "redacted"
+}
